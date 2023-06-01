@@ -16,6 +16,12 @@
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
  </properties>
+	
+<dependency>
+	<groupId>contohProjectMaven</groupId>
+	<artifactId>contohProject<artifactId>
+	<version>0.3.4</version>
+</dependency>
   
 </project>
 
